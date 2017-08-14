@@ -1,0 +1,18 @@
+{
+  "name": "hapticjs",
+  "version": "1.0.0",
+  "description": "vibrate macOS trackpad ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "haptic",
+    "macos",
+    "trackpad",
+    "vibrate",
+    "buzz"
+  ],
+  "author": "Taylor Hanayik",
+  "license": "MIT"
+}
