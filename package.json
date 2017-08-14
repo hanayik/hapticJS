@@ -1,6 +1,6 @@
 {
   "name": "hapticjs",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "vibrate macOS trackpad ",
   "main": "app.js",
   "scripts": {
@@ -19,7 +19,5 @@
   },
   "author": "Taylor Hanayik",
   "license": "MIT",
-  "dependencies": {
-  
-  }
+  "dependencies": {}
 }
