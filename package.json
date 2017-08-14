@@ -18,5 +18,8 @@
     "url": "git+https://github.com/hanayik/hapticJS.git"
   },
   "author": "Taylor Hanayik",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "platform": "^1.3.4"
+  }
 }
