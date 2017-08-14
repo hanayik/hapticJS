@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.0.1 (swiftlang-800.0.58.6 clang-800.0.42.1)"
+options: "2fd077a937b6240830363fb9ba40932b"
+build_time: [556046425, 906963000]
+inputs:
+  "/Users/thanayik/hapticJS/hapticJS/hapticJS/main.swift": [556044096, 0]

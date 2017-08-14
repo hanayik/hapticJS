@@ -13,6 +13,10 @@
     "vibrate",
     "buzz"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanayik/hapticJS.git"
+  },
   "author": "Taylor Hanayik",
   "license": "MIT"
 }
