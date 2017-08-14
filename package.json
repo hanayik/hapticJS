@@ -1,6 +1,6 @@
 {
   "name": "hapticjs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "vibrate macOS trackpad ",
   "main": "app.js",
   "scripts": {
