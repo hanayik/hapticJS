@@ -9,6 +9,8 @@ This npm module was designed to work with any macOS electron app so long as you 
 
 ### To use
 
+``` npm install --save hapticjs ```
+
 ``` var hapticjs = require('hapticjs') ```
 
 ``` hapticjs.vibrate() ```
