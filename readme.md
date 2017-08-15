@@ -17,7 +17,7 @@ This npm module was designed to work with any macOS electron app so long as you 
 
 The vibration will occur instantly. If haptic feedback isn't supported on your system then the module will simply just not vibrate when called. It will not stop the rest of your code execution. 
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=hanayik@gmail.com&lc=US&item_name=Taylor%20Hanayik&amount=1.00&currency_code=USD&bn=PP-DonationsBF:btn_donate_LG.gif:NonHostedGuest)
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=hanayik@gmail.com&lc=US&item_name=hapticJS&amount=1.00&currency_code=USD&bn=PP-DonationsBF:btn_donate_LG.gif:NonHostedGuest)
 
 
 ### License
