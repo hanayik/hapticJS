@@ -1,5 +1,6 @@
 var exec = require('child_process').exec
 var path = require('path')
+var os = require('os')
 var cmd = path.join(__dirname, 'hapticJS', 'DerivedData', 'hapticJS', 'Build', 'Products', 'Release', 'hapticJS')
 
 exports.vibrate = function() {
